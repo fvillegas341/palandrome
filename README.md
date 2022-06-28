@@ -1,1 +1,1 @@
-# palandrome
+# palandrome JS
